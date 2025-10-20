@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         実験用（サイト内遷移対応版）
+// @name         海外旅行A
 // @namespace    http://your-domain.com/
 // @version      0.1
-// @description  海外旅行A
+// @description  実験用（サイト内遷移対応版）
 // @author       h-maruta
 // @match        https://www.asahi.com/*
 // @grant        none
